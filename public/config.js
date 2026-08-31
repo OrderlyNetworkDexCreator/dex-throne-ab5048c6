@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/32thrones",
   "VITE_SEO_SITE_NAME": "throne. | the desk of the yield court",
   "VITE_SEO_SITE_DESCRIPTION": "the perp desk of throne, the yield court of robinhood chain. trade perpetuals on orderly's shared orderbook. every trade pays the court.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-throne-ab5048c6/",
+  "VITE_SEO_SITE_URL": "https://trade.throne.network",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
