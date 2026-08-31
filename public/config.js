@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns",
-  "VITE_CUSTOM_MENUS": "the court, https://throne.network; terms, https://throne.network/terms",
+  "VITE_CUSTOM_MENUS": "The Court, https://throne.network; Terms, https://throne.network/terms",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
